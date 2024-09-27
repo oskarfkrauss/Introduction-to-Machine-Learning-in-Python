@@ -6,6 +6,10 @@ The goal of this course is to start from the fundamentals of linear algebra, pro
 
 Materials will be released each week from my private repository for you to have a go at, this includes both lecture notes/slides and some programming exercises in Python. Don't worry if you fall a bit behind we probably won't rigorously stick to the schedule and can spend more time on trickier things. 
 
+## Video materials for linear algebra
+
+[3Blue1Brown essence of linear algebra](https://youtu.be/kjBOesZCoqc?si=UUkI12_ND45JzhCQ)
+
 ## Course overview
 
 Week 1: Introduction to the course, setup and basic Python programming
