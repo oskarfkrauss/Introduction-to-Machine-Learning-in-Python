@@ -22,6 +22,10 @@ If you have everything set up open your terminal (Mac), cmd (Windows), or Debian
 
 ```jupyter notebook```
 
+To move up a directory:
+
+```cd ..```
+
 ## Course overview
 
 Week 1: Introduction to the course, setup and basic Python programming
