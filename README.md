@@ -34,35 +34,29 @@ Week 2: Fundamentals of linear algebra, vector spaces, multiplication, transposi
 
 Week 3: Basics of multivariate calculus, funtions of multiple variables, partial derivatives, vectorized gradients, critical points, Hessian matrix, Jacobians, simple linear regression, least squares estimate.
 
-Week 4-5: Linear regression in depth, multiple linear regression, mathematical derivation of the least squares estimate, multivariate case, regularization with lasso and ridge regression, polynomial basis expansion.
+Week 4-5: Linear regression in depth, multiple linear regression, derivation of the least squares estimate for the multivariate case, regularization with lasso and ridge regression, polynomial basis expansion.
 
-Week 5-6: Fundamentals of probability theory, events outcomes, random variables, basic probability distributions, conditional probability, Bayes' Theorem, independence, expectation, variance, covariance, correlation, discrete and continuous variables.
+Week 6: Fundamentals of probability theory, events outcomes, random variables, basic probability distributions, conditional probability, Bayes' Theorem, independence, expectation, variance, covariance, correlation, discrete and continuous variables.
 
-Week 8: Introduction to data preprocessing and feature engineering, hands on with pandas and numpy.
+Week 7-8: Introduction to classification, logistic regression, naive bayes, performance metrics (precision, recall F-1 score).
 
-Week 9: Introduction to machine learning, supervised v.s. unsupervised learning, training and test set split, simple linear regression and k-nearest neighbours.
+Week 9: Hands on unsupervised learning, K-means, heirarchical clustering.
 
-Week 10-11: TBD
+Week 10: Introduction to nerual networks, neurons, activation functions, feed forward neural networks, backpropagation.
 
-Week 11-12: Introduction to classification, logistic regression, naive bayes, performance metrics (precision, recall F-1 score).
+Week 11: In depth analysis of neural networks, derivation of backpropagation for feed forward neural networks.
 
-Week 13-14: Hands on unsupervised learning, K-means, heirarchical clustering.
+Week 12-13: Training neural networks, setup pytorch, desiging neural network architecture, loss functions and optimization algorithms (SGD, SGD with momentum, Adam), understanding learning rates and epochs.
 
-Week 15: Introduction to nerual networks, neurons, activation functions, feed forward neural networks, backpropagation.
+Week 14: Advanced topics with neural networks, regularization techniques, dropout, batch norm, weight decay, model evaluation and overfitting.
 
-Week 16: In depth analysis of neural networks, derivation of backpropagation for feed forward neural networks.
+Week 15: Introduction to convolutional neural networks, convolutions, pooling layers, hands on implementation details.
 
-Week 17-18: Training neural networks, setup pytorch, desiging neural network architecture, loss functions and optimization algorithms (SGD, SGD with momentum, Adam), understanding learning rates and epochs.
+Week 16: Introduction to recurrent neural networks, time series forcasting and sequential data, vanishing gradient problem, LSTM and GRU.
 
-Week 19: Advanced topics with neural networks, regularization techniques, dropout, batch norm, weight decay, model evaluation and overfitting.
+Week 17: Introduction to reinforcement learning, agents, states, actions, rewards, Q learning and deep Q learning, applications.
 
-Week 20: Introduction to convolutional neural networks, convolutions, pooling layers, hands on implementation details.
-
-Week 21: Introduction to recurrent neural networks, time series forcasting and sequential data, vanishing gradient problem, LSTM and GRU.
-
-Week 22: Introduction to reinforcement learning, agents, states, actions, rewards, Q learning and deep Q learning, applications.
-
-Week 23-26: Capstone project based on any of the main topics introduced throughout the course.
+Week 18-26: Capstone project based on any of the main topics introduced throughout the course.
 
 ## Installation and setup instructions
 
