@@ -14,17 +14,19 @@ Materials will be released each week from my private repository for you to have 
 
 Week 1: Introduction to the course, setup and basic Python programming
 
-Week 2-3: Fundamentals of linear algebra, vector spaces, multiplication, transposition, linear transformations, matrix inverse, determinant, eigenvalues, eigenvectors.
+Week 2: Fundamentals of linear algebra, vector spaces, multiplication, transposition, linear transformations, matrix inverse, determinant, eigenvalues, eigenvectors.
 
-Week 4-5: Fundamentals of probability theory, events outcomes, random variables, basic probability distributions, conditional probability, Bayes' Theorem, independence, expectation, variance, covariance, correlation, discrete and continuous variables.
+Week 3: Basics of multivariate calculus, funtions of multiple variables, partial derivatives, vectorized gradients, critical points, Hessian matrix, Jacobians, simple linear regression, least squares estimate.
 
-Week 5-6: Fundamentals of multivariate calculus, functions of multiple variables, partial derivatives and gradients, gradient descent, critical points and Hessian matrix.
+Week 4-5: Linear regression in depth, multiple linear regression, mathematical derivation of the least squares estimate, multivariate case, regularization with lasso and ridge regression, polynomial basis expansion.
+
+Week 5-6: Fundamentals of probability theory, events outcomes, random variables, basic probability distributions, conditional probability, Bayes' Theorem, independence, expectation, variance, covariance, correlation, discrete and continuous variables.
 
 Week 8: Introduction to data preprocessing and feature engineering, hands on with pandas and numpy.
 
 Week 9: Introduction to machine learning, supervised v.s. unsupervised learning, training and test set split, simple linear regression and k-nearest neighbours.
 
-Week 10-11: Linear regression in depth, multiple linear regression, mathematical derivation of the least squares estimate, multivaraite case, regularization with lasso and ridge regression, polynomial basis expansion.
+Week 10-11: TBD
 
 Week 11-12: Introduction to classification, logistic regression, naive bayes, performance metrics (precision, recall F-1 score).
 
