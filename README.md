@@ -10,6 +10,16 @@ Materials will be released each week from my private repository for you to have 
 
 [3Blue1Brown essence of linear algebra](https://youtu.be/kjBOesZCoqc?si=UUkI12_ND45JzhCQ)
 
+## Getting started with coding
+
+If you have yet to install Anaconda and Python please see **Installing and setup instructions** below.
+
+If you have everything set up open your terminal (Mac), cmd (Windows), or Debian/Ubuntu (Linux) navigate to your coding directory with ```cd``` and ```ls``` (Max/Linux) or ```dir``` e.g.
+
+```cd tech_elective```
+```conda activate ml```
+``jupyter notebook```
+
 ## Course overview
 
 Week 1: Introduction to the course, setup and basic Python programming
