@@ -17,8 +17,10 @@ If you have yet to install Anaconda and Python please see **Installing and setup
 If you have everything set up open your terminal (Mac), cmd (Windows), or Debian/Ubuntu (Linux) navigate to your coding directory with ```cd``` and ```ls``` (Max/Linux) or ```dir``` e.g.
 
 ```cd tech_elective```
+
 ```conda activate ml```
-``jupyter notebook```
+
+```jupyter notebook```
 
 ## Course overview
 
