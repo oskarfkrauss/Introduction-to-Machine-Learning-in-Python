@@ -10,6 +10,12 @@ Materials will be released each week from my private repository for you to have 
 
 [3Blue1Brown essence of linear algebra](https://youtu.be/kjBOesZCoqc?si=UUkI12_ND45JzhCQ)
 
+## Machine learning with Python
+
+Check out scitkit-learn a machine learning toolbox that implements various classical ML algorithms, for regression, classification and unsupervised learning.
+
+[Scitkit-learn](https://scikit-learn.org/stable/)
+
 ## Getting started with coding
 
 If you have yet to install Anaconda and Python please see **Installing and setup instructions** below.
