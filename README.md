@@ -40,13 +40,13 @@ Week 2: Fundamentals of linear algebra, vector spaces, multiplication, transposi
 
 Week 3: Basics of multivariate calculus, funtions of multiple variables, partial derivatives, vectorized gradients, critical points, Hessian matrix, Jacobians, simple linear regression, least squares estimate.
 
-Week 4-5: Linear regression in depth, multiple linear regression, derivation of the least squares estimate for the multivariate case, regularization with lasso and ridge regression, polynomial basis expansion.
+Week 4: Linear regression in depth, multiple linear regression, derivation of the least squares estimate for the multivariate case, 
 
-Week 6: Fundamentals of probability theory, events outcomes, random variables, basic probability distributions, conditional probability, Bayes' Theorem, independence, expectation, variance, covariance, correlation, discrete and continuous variables.
+Week 5: Introduction to classification, logistic regression, performance metrics (precision, recall F-1 score).
 
-Week 7-8: Introduction to classification, logistic regression, naive bayes, performance metrics (precision, recall F-1 score).
+Week 6: Polynomial basis expansion, bias-variance tradeoff, lasso and ridge regression logistic regression with L2 and L1 regulzarization, 
 
-Week 9: Hands on unsupervised learning, K-means, heirarchical clustering.
+Week 7-8 Unsupervised learning, K-means, hierarchical clustering.
 
 Week 10: Introduction to nerual networks, neurons, activation functions, feed forward neural networks, backpropagation.
 
