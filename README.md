@@ -32,6 +32,18 @@ To move up a directory:
 
 ```cd ..```
 
+## Accessing resources through google colab
+
+If you don't have python or Anaconda installed you can still access the resources through google colab. 
+
+Go to [Google Colab](https://colab.research.google.com/)
+
+```File -> Open Notebook```
+
+Click GitHub and then search my username: sacktock
+
+Choose the repository 26-week-Ml-public and then choose which notebook to open.
+
 ## Course overview
 
 Week 1: Introduction to the course, setup and basic Python programming
@@ -46,23 +58,21 @@ Week 5: Introduction to classification, logistic regression, performance metrics
 
 Week 6: Polynomial basis expansion, bias-variance tradeoff, lasso and ridge regression logistic regression with L2 and L1 regulzarization, 
 
-Week 7-8 Unsupervised learning, K-means, hierarchical clustering.
+Week 7: Unsupervised learning, K-means clustering, PCA and SVD.
 
-Week 10: Introduction to nerual networks, neurons, activation functions, feed forward neural networks, backpropagation.
+Week 8: Introduction to neural networks, neurons, activation functions, feed forward neural networks, forward equations.
 
-Week 11: In depth analysis of neural networks, derivation of backpropagation for feed forward neural networks.
+Week 9: Introduction to feedforward neural networks designing neural network architectures, loss functions and optimization algorithms (SGD, SGD with momentum, Adam), learning rates and epochs.
 
-Week 12-13: Training neural networks, setup pytorch, desiging neural network architecture, loss functions and optimization algorithms (SGD, SGD with momentum, Adam), understanding learning rates and epochs.
+Week 10: Advanced topics with neural networks, regularization techniques, dropout, batch norm, weight decay, model evaluation and overfitting.
 
-Week 14: Advanced topics with neural networks, regularization techniques, dropout, batch norm, weight decay, model evaluation and overfitting.
+Week 11: Introduction to convolutional neural networks, convolutions, pooling layers, hands on implementation details.
 
-Week 15: Introduction to convolutional neural networks, convolutions, pooling layers, hands on implementation details.
+Week 12: Introduction to recurrent neural networks, time series forcasting and sequential data, vanishing gradient problem, LSTM and GRU.
 
-Week 16: Introduction to recurrent neural networks, time series forcasting and sequential data, vanishing gradient problem, LSTM and GRU.
+Week 13: Introduction to reinforcement learning, agents, states, actions, rewards, Q learning and deep Q learning, applications.
 
-Week 17: Introduction to reinforcement learning, agents, states, actions, rewards, Q learning and deep Q learning, applications.
-
-Week 18-26: Capstone project based on any of the main topics introduced throughout the course.
+Week 14-26: Capstone project based on any of the main topics introduced throughout the course.
 
 ## Installation and setup instructions
 
