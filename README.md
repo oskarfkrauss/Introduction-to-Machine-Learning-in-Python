@@ -40,9 +40,9 @@ Go to [Google Colab](https://colab.research.google.com/)
 
 ```File -> Open Notebook```
 
-Click GitHub and then search my username: sacktock
+Click GitHub and then search my username: oskarfkrauss
 
-Choose the repository 26-week-Ml-public and then choose which notebook to open.
+Choose the repository Introduction-to-Machine-Learning-in-Python and then choose which notebook to open.
 
 ## Course overview
 
